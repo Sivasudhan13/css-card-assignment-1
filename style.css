@@ -28,7 +28,7 @@
     justify-content: center;
   }
   .container-box {
-    background-color: var(--YELLOW);
+    /* background-color: var(--YELLOW);*/
     width: 90vw;
     height: 90vh;
     margin: 50px;
