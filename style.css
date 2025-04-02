@@ -87,6 +87,8 @@
 
   body {
     font-family: "Figtree";
+    margin: 0px;
+    padding: 0px;
   }
   :root {
     --YELLOW: hsl(47, 88%, 63%);
