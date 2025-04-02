@@ -38,7 +38,7 @@
   .card {
     background-color: var(--WHITE);
     width: 280px;
-    height: 410px;
+    height: 420px;
     border-radius: 20px;
     box-shadow: 5px 5px black;
   }
@@ -118,7 +118,7 @@
   .card {
     background-color: var(--WHITE);
     width: 280px;
-    height: 400px;
+    height: 420px;
     border-radius: 20px;
     box-shadow: 5px 5px black;
   }
